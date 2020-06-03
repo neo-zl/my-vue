@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 1244
 大叔大婶多
 得到
+=======
+>>>>>>> parent of 0018e17... Update test.txt
